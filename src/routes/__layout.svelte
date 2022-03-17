@@ -2,15 +2,11 @@
 	import '../app.css';
 </script>
 
-
 <main>
 	<slot />
 </main>
 
-<footer>
-	
-</footer>
+<footer />
 
 <style>
-
 </style>

@@ -18,9 +18,4 @@
 	<title>About</title>
 </svelte:head>
 
-<div class="content">
-
-</div>
-
-<style>
-</style>
+<div class="content" />

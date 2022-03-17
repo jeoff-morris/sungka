@@ -10,9 +10,5 @@
 </svelte:head>
 
 <section>
-	<h1>Home Page</h1>
+	<h1>Sungka Home</h1>
 </section>
-
-<style>
-
-</style>
